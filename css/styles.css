@@ -679,6 +679,9 @@ button {
 .portfolio-section {
     padding-bottom: 50px;
 }
+.portfolio-row {
+    align-items: center;
+}
 .portfolio-item {
     width: calc((100%/3) - 30px);
     margin: 0 15px 30px;
@@ -902,6 +905,9 @@ button {
     }
     .pp-header h3 {
         font-size: 20px;
+    }
+    .cv-btn {
+        margin: 14px 0 14px 0;
     }
 }
 
